@@ -1,0 +1,8 @@
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\bin\Debug\Test.exe.config
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\bin\Debug\Test.exe
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\bin\Debug\Test.pdb
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\bin\Debug\Home_work_day2.dll
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\bin\Debug\Home_work_day2.pdb
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\obj\Debug\Test.exe
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Test\obj\Debug\Test.pdb

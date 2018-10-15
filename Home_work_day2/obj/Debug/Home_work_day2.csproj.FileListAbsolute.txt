@@ -1,0 +1,5 @@
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Home_work_day2\bin\Debug\Home_work_day2.dll
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Home_work_day2\bin\Debug\Home_work_day2.pdb
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Home_work_day2\obj\Debug\Home_work_day2.dll
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Home_work_day2\obj\Debug\Home_work_day2.pdb
+C:\Users\Shumilin\Documents\Visual Studio 2017\Projects\MY_EPAM_PROJECTS\NET.W.2018.Shumilin.2\NET.W.2018.Shumilin.2\Home_work_day2\obj\Debug\Home_work_day2.csprojResolveAssemblyReference.cache
